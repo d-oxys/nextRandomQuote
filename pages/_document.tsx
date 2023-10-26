@@ -1,4 +1,6 @@
-import { Html, Head, Main, NextScript } from 'next/document'
+import { Html, Head, Main, NextScript } from "next/document";
+import React, { useState } from "react";
+import Quotes from "../pages/api/quotes";
 
 export default function Document() {
   return (
@@ -9,5 +11,5 @@ export default function Document() {
         <NextScript />
       </body>
     </Html>
-  )
+  );
 }
