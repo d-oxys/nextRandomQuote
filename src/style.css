@@ -1,0 +1,93 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* style.css */
+.bg-color-change {
+  transition: background-color 0.5s ease;
+}
+
+.text-color-change {
+  transition: color 0.5s ease;
+}
+
+.bg-blue-700 {
+  background-color: #3490dc;
+}
+
+.bg-red-700 {
+  background-color: #e3342f;
+}
+
+.bg-green-700 {
+  background-color: #38c172;
+}
+
+.bg-yellow-700 {
+  background-color: #f6993f;
+  color: #000000;
+}
+
+.bg-purple-700 {
+  background-color: #9561e2;
+}
+
+.bg-pink-700 {
+  background-color: #f66d9b;
+}
+
+.bg-gray-700 {
+  background-color: #4b5563;
+}
+
+.bg-indigo-700 {
+  background-color: #6574cd;
+}
+
+.bg-orange-700 {
+  background-color: #d97706;
+}
+
+.bg-teal-700 {
+  background-color: #14b8a6;
+}
+
+.blue-700 {
+  color: #3490dc;
+}
+
+.red-700 {
+  color: #e3342f;
+}
+
+.green-700 {
+  color: #38c172;
+}
+
+.yellow-700 {
+  color: #f6993f;
+}
+
+.purple-700 {
+  color: #9561e2;
+}
+
+.pink-700 {
+  color: #f66d9b;
+}
+
+.gray-700 {
+  color: #4b5563;
+}
+
+.indigo-700 {
+  color: #6574cd;
+}
+
+.orange-700 {
+  color: #d97706;
+}
+
+.teal-700 {
+  color: #14b8a6;
+}
