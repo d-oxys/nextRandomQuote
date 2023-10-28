@@ -3,6 +3,8 @@
 @tailwind utilities;
 
 /* style.css */
+
+/* style.css */
 .bg-color-change {
   transition: background-color 0.5s ease;
 }
